@@ -1,0 +1,57 @@
+body {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+      margin: 0 10vw;
+}
+
+.first_header_section {
+      margin-top: 20px;
+}
+
+.first_conteaner_for_many_text_header {
+      display: flex;
+      position: relative;
+}
+
+.second_miny_conteaner_header {
+      display: flex;
+      margin-left: 40px;
+}
+
+.first_miny_conteaner_header {
+      display: flex;
+      margin-left: 40px;
+}
+
+.circle {
+      width: 4px;
+      height: 4px;
+      border-radius: 10px;
+      background: #ff2e65;
+      margin: 8px;
+}
+
+.button_phone {
+      width: 180px;
+      height: 42px;
+      border-radius: 28px;
+      background: #F3F3F7;
+      color: #696F7A;
+      border: none;
+      font-size: 14px;
+      line-height: 28px;
+}
+
+.miny_conteaner_header {
+      display: flex;
+}
+
+.foods {
+      width: 835px;
+      justify-content: space-between;
+      display: flex;
+      color: #0e0c0d;
+      margin-left: 120px;
+}
+
